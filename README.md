@@ -4,7 +4,7 @@ NodeMCU firmware : nodemcu_float_0.9.6-dev_20150704.bin<br/>
 IDE : ESPlorer [Download](http://esp8266.ru/esplorer/#download)
 
 ##Setup Hardware :
-![alt tag](https://farm6.staticflickr.com/5705/22819362262_0a9bf64dd2_z.jpg)
+![alt tag](https://farm6.staticflickr.com/5705/22819362262_0a9bf64dd2_z.jpg)<br>
 Vcc <-> 3V (3.3V)<br/>
 Trig <-> D5 (GPIO14/pin 5)<br/>
 Echo <-> D6 (GPIO12/pin 6)<br/>
